@@ -16,7 +16,7 @@
 * 📚 **Course Name:** CPE 031 - Visualizations and Data Analysis
 
 ## 🎯 About This Repository
-This repository serves as my official workspace for *CPE 031 - Visualizations and Data Analysis*. It tracks my progress in engineering coursework, data cleaning pipelines, and exploratory analysis scripts using Python.
+This repository serves as my official workspace for *CPE 031 - Visualizations and Data Analysis*. It tracks my progress in this engineering coursework.
 
 ---
 
